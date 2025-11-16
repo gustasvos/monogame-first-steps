@@ -1,0 +1,45 @@
+# Build output
+bin/
+obj/
+
+# Content Pipeline output
+Content/bin/
+
+# NuGet packages
+packages/
+*.nupkg
+
+# IDE-specific files
+.vs/
+.idea/
+*_ReSharper*/
+
+# Visual Studio Rebracer extension
+rebracer.xml
+
+# Vscode
+.vscode
+
+# Subversion files (if applicable)
+.svn
+
+# Office temporary files
+~$*
+
+# MonoDroid private beta (if applicable)
+monodroid*.msi
+
+# Unix temporary files
+*~
+
+# Output documentation (if applicable)
+Documentation/Output/
+
+# Mac Package Files (if applicable)
+*.pkg
+*.mpack
+
+# Other
+# I used this assets folder bc my sprites were in windows and code was in WSL, and im lazy so i just drag them
+# Not needed now because it is in MGCB Content now
+assets/
