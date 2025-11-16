@@ -10,6 +10,8 @@ To run the "project":
 > dotnet run
 ```
 
+> note: don't mind the mistake in the project name.
+
 ## What is Monogame?
 
 MonoGame is a simple and powerful .NET framework for creating games for desktop PCs, video game consoles, and mobile devices using the C# programming language. It has been successfully used to create games such as Streets of Rage 4, Carrion, Celeste, Stardew Valley, and many others.
